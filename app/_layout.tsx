@@ -27,7 +27,7 @@ function RootLayoutNav() {
 
     if (!user && !inAuthRoute) {
       // Redirect to sign-in if not logged in and not on an auth screen
-      router.replace('/');
+      router.replace('/sign-in');
     } else if (user && inAuthRoute) {
       // Redirect to home if logged in and trying to access auth screens
       router.replace('/');
