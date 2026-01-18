@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "264746204690",
+        "project_id": "hospital-reminder-app-v1-dev",
+        "storage_bucket": "hospital-reminder-app-v1-dev.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:264746204690:android:ad0b634edec6b9402462cb",
+                "android_client_info": {
+                    "package_name": "com.hospital.reminder"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDIt4N8PLs6OF_kir8JgJuhSXAHn_M5wiA"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
