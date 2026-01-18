@@ -7,8 +7,8 @@ import { REMINDER_TEMPLATES, ReminderTemplate } from '../constants/templates';
 import { useAuth } from '../context/AuthContext';
 import { TaskService } from '../services/TaskService';
 
-import { CalendarService } from '@/services/CalendarService';
-import { NotificationService } from '@/services/NotificationService';
+import { CalendarService } from '../services/CalendarService';
+import { NotificationService } from '../services/NotificationService';
 
 export default function CreateTaskScreen() {
     const router = useRouter();
